@@ -1,0 +1,521 @@
+﻿month,department,run,numbers_check,extra_numbers,has_chinese,champions_check,wrong_items,expected,judge_said,answer
+2026-01-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Hi,
+
+Here is how the department's spending compares with budget. Salaries is the category that moved the most on the over-budget side. It came in at 40,842 against a budget of 39,654, which is 1,188 over, or +3.00%. It is the largest overrun in both absolute amount and percentage terms. Advertising is also over, but by much less (+351, or +1.68%).
+
+On the under-budget side, Software stands out. Actual spending was 1,869 against a budget of 2,122, which is 253 under, or -11.92%. That is the biggest underspend by amount and by percentage. Travel is also slightly under (-58, or -1.07%), but it is barely off budget.
+
+So the same two categories lead on both measures. Salaries is the biggest overspend and Software is the biggest underspend. Overall, the department is 1,228 over budget (+1.80%), and the Salaries overrun accounts for most of that gap. The Software underspend only offsets a small part of it.
+
+The table doesn't say why these differences happened, so I haven't speculated on causes. If you want to dig in, Salaries is the place to start, since it has the largest effect on the total."
+2026-01-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Hi,
+
+Here's a quick read on how the department's spending compared with budget.
+
+**Overspending:** Salaries is the biggest overage on both measures. It came in at 40,842 against a budget of 39,654, which is 1,188 over, or +3.00%. Advertising was also over, but only slightly (+351, +1.68%).
+
+**Underspending:** Software is the biggest underspend on both measures. It came in at 1,869 against a budget of 2,122, which is 253 under, or -11.92%. It's the largest percentage swing in the whole table, though the dollar amount is small because the Software budget is small. Travel was also a bit under (-58, -1.07%), which is essentially on budget.
+
+**Overall:** The department spent 69,374 against a budget of 68,146, which is 1,228 over (+1.80%). Software and Travel came in under budget, but their savings were far too small to offset the overages in Salaries and Advertising. Salaries accounts for most of the overall overage.
+
+The table doesn't say why these differences happened, so I haven't guessed at causes. If you want to dig in, Salaries is the first place to look, and then Software to see whether the underspend reflects timing or a real saving."
+2026-01-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Salaries and Software stand out, and each one tops both rankings.
+
+Salaries is the biggest overspend by both measures. It came in 1,188 over budget, which is +3.00%. No other category is over by that much in absolute or percentage terms. Advertising is also over, by 351 (+1.68%), but that is much smaller.
+
+Software is the biggest underspend by both measures. It came in 253 under budget, which is -11.92%. That is the largest percentage swing in the table, even though the amount is small compared with Salaries. Travel is also slightly under, by 58 (-1.07%), which is barely a dent.
+
+Overall, the department finished 1,228 over budget (+1.80%). The Software and Travel savings were too small to offset the overruns in Salaries and Advertising. Salaries accounts for most of the overage.
+
+The table doesn't say why any of these variances happened, so I haven't guessed. To understand the Salaries overrun and the large Software gap, you would need to check the underlying records or ask the budget owners."
+2026-01-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","Overall, the department spent 64,095 against a budget of 62,111, which puts it 1,984 (3.19%) over, according to the table.
+
+**Biggest overspend by amount:** Salaries. It came in 1,518 over budget (44,626 actual vs. 43,108 budgeted), which is the largest dollar gap of any category.
+
+**Biggest overspend by percentage:** Travel. It ran 6.45% over (7,379 vs. 6,932). The dollar amount is smaller than Salaries (+447), but relative to its budget, Travel drifted the furthest.
+
+**Biggest underspend, by amount and by percentage:** Software is the only category that came in under budget, at 107 below (9,125 vs. 9,232), or 1.16%. That makes it the largest underspend on both measures. The amount is small and doesn't offset the overruns elsewhere.
+
+Advertising was also over, by 126 (4.44%). It isn't the largest on either measure, but it is still over.
+
+Salaries drives the overall overage in dollar terms, while Travel is the category that ran furthest over its own budget in percentage terms. The table doesn't say why these differences occurred, so I haven't suggested any causes. If you want to dig into Salaries and Travel, you would need more detailed data behind those lines."
+2026-01-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","Hi,
+
+Here's a quick look at where the department's spending landed against budget.
+
+**Over budget:** Salaries has the biggest overage in absolute terms, at +1,518 (+3.52%). Travel has the biggest overage in percentage terms, at +6.45% (+447). Salaries is the larger amount, but Travel is further off its own budget. Advertising is also over, at +126 (+4.44%), though it's small in absolute terms.
+
+**Under budget:** Software is the only category that came in under budget, at -107 (-1.16%). That makes it both the largest underspend in amount and in percentage. It's a small gap, and it doesn't come close to offsetting the overages elsewhere.
+
+**Overall:** The department as a whole is over budget by 1,984 (+3.19%). Salaries accounts for most of that gap by amount, and Travel is the category furthest off plan by percentage.
+
+The table doesn't say why any of these gaps happened, so I haven't speculated. If you want to dig in, Salaries and Travel are the places to start."
+2026-01-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Software', 'under_pct': 'Software'}","Overall, the department came in over budget by 1,984 (+3.19%), and almost every category contributed to that.
+
+In dollar terms, Salaries is the biggest overrun at +1,518 (+3.52%). That is the largest gap in the table and the main reason the total ran over. Travel is next at +447, and Advertising is a small +126.
+
+In percentage terms, Travel stands out most at +6.45%, even though its dollar amount is much smaller than Salaries'. Advertising is also fairly high at +4.44%, while Salaries' percentage is the lowest of the three overspent categories.
+
+Software is the only category that came in under budget, at -107 (-1.16%). Since it's the only one, it is both the largest underspend in dollars and in percentage terms. It's also too small to offset the overruns elsewhere.
+
+The table doesn't say why these gaps happened, so I haven't guessed at causes. If you want to dig further, Salaries is the place to start because of the dollar amount, and Travel is worth a look because of its percentage overrun."
+2026-01-01,Sales,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries is the biggest under-budget item on both measures. It came in 4,827 below budget (37,792 actual against 42,619 planned), a variance of -11.33%. That single line accounts for most of the department's overall underspend. The total is 4,889 under budget, or -6.99%.
+
+Advertising is the only category that went over budget, so it is the largest overspend on both measures. It ran 984 above plan (14,403 actual against 13,419 budgeted), or +7.33%. It is a much smaller amount than the Salaries underspend, but it is the one line moving in the opposite direction.
+
+Software is worth a quick look too. Its dollar gap is small (-511), but its -10.40% is close to Salaries in percentage terms. Travel was only slightly under, at -535 or -5.92%.
+
+The table doesn't say why any of these gaps happened, so I'd check with the budget owners for Salaries and Advertising before drawing conclusions."
+2026-01-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi,
+
+Salaries is the clear standout on the underspend side. It came in 4,827 under budget, which is the biggest gap in dollar terms, and its -11.33% is also the biggest percentage gap. Software is next in percentage terms at -10.40%, but that is only 511 in dollars, so it matters much less. Travel is under by 535 (-5.92%), which is the smallest underspend of the three.
+
+Advertising is the only category that went over budget, by 984, or +7.33%. It is therefore both the largest overspend in dollars and the largest in percentage terms. Everything else landed below plan.
+
+Overall, the department spent 65,100 against a budget of 69,989. That is 4,889 under, or -6.99%, according to the table. Salaries accounts for most of that gap, and Advertising is the one line moving the other way.
+
+The table doesn't say why any of these differences happened, so I'd check with the relevant owners, especially for Salaries and Advertising, before drawing conclusions."
+2026-01-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi,
+
+Salaries stands out the most on the under-budget side. It came in 4,827 below plan (37,792 spent against a 42,619 budget), which is the biggest gap in absolute terms. It is also the biggest in percentage terms at -11.33%. Software is close behind on percentage (-10.40%), but its dollar gap is only 511, so it has far less impact on the overall picture. Travel is under by 535, or 5.92%.
+
+Advertising is the only category that went over budget. It was 984 above plan (14,403 against 13,419), or +7.33%. Because it is the only overspend, it is both the largest over-budget item by amount and by percentage.
+
+Overall, the department spent 65,100 against a budget of 69,989, which is 4,889 under, or -6.99%. Salaries accounts for almost all of that underspend. Advertising's overspend partly offsets the savings elsewhere, but not by much.
+
+The table doesn't say why these variances happened, so I haven't speculated. If you want to know whether the Salaries gap and the Advertising overrun are timing issues or something more lasting, the next step would be to check with the budget owners for those two lines."
+2026-02-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","Salaries is the category to watch. It's the biggest overspend in both dollar and percentage terms, running 4,070 over budget (43,990 actual vs. 39,920 budgeted), or +10.20%. That is also the largest variance in the table and makes up most of the department's total overage of 4,640 (+6.91%).
+
+On the underspending side, Travel stands out in both measures. It came in 408 under budget (3,010 actual vs. 3,418 budgeted), a variance of -11.94%. It is the largest underspend in dollars and also the largest in percentage terms.
+
+Advertising is over budget by 1,054 (+4.92%), which is worth keeping an eye on, but it is well behind Salaries. Software is only slightly under, by 76 (-3.17%).
+
+The table doesn't show why these variances happened, so I'd suggest checking with the relevant teams before drawing any conclusions. Salaries is the obvious place to start."
+2026-02-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","Here's a quick read on how each department expense category compares with its budget.
+
+**Where we overspent**
+Salaries is the biggest overspend on both measures. It came in 4,070 over budget (+10.20%), which is the largest dollar gap and the largest percentage gap. Advertising also ran over, by 1,054 (+4.92%), but that is much smaller than Salaries.
+
+**Where we underspent**
+Travel shows the largest underspend by both measures, coming in 408 under budget (-11.94%). Software was also under, but only by 76 (-3.17%), so it is a minor difference.
+
+**Putting it together**
+Salaries and Travel are the two categories that stand out. Salaries accounts for most of the overall overrun, and Travel's savings are too small to make up for it. The total now stands at 4,640 over budget (+6.91%). Software's small underspend barely changes the picture.
+
+The table doesn't say why these differences happened, so I can't comment on causes. If you want to dig in, the best place to start is Salaries, then Travel, to see what drove the gaps."
+2026-02-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Travel', 'under_pct': 'Travel'}","Salaries and Travel stand out, and they come out on top whether you look at dollar amounts or percentages. Salaries is the biggest overspend: actual came in at 43,990 against a budget of 39,920, which is +4,070 or +10.20%. Travel is the biggest underspend: it landed at 3,010 versus a budget of 3,418, which is -408 or -11.94%. So Salaries is the largest overage and Travel the largest underrun by both measures. The other two lines are much smaller. Software is slightly under budget (-76, -3.17%), and Advertising is over (+1,054, +4.92%), but neither moves the needle like Salaries. Overall, the department spent 71,782 against a 67,142 budget, which is +4,640 or +6.91% over. The Salaries overage is the main contributor to that total. The table doesn't say why any of these gaps happened, so if you want to dig into the Salaries overrun or the Travel underspend, we'd need more detail from the department."
+2026-02-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","Hi,
+
+Here is a quick read on the budget vs. actual table.
+
+**Nothing came in under budget.** All three categories (Travel, Software, and Advertising) spent more than planned, so there is no under-budget category to report, either by dollar amount or by percentage.
+
+**Software is the biggest overspend on both measures.** It is over by 1,696, or +15.44%, which is the largest dollar variance and the largest percentage variance in the table. The budget was 10,985 and the actual was 12,681. The department's total overage is 1,898 (+10.44%), and Software's 1,696 makes up most of that.
+
+**Travel and Advertising are much closer to plan.**
+- Travel is over by 159 (+2.70%). This is the smallest percentage overage.
+- Advertising is over by 43 (+3.25%). This is the smallest dollar overage, but its percentage is slightly higher than Travel's.
+
+Overall, the department spent 20,086 against a budget of 18,188, which is +10.44%. If you want to look into the overspend, Software is the place to start. The table doesn't show why the variances happened, so I haven't suggested any causes. That would need more detail, such as transaction records or input from the budget owners.
+
+Best regards"
+2026-02-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","Hi,
+
+Every category in this table came in over budget, so there is no under-budget category to point to for either dollar amount or percentage. Total spending was 20,086 against a budget of 18,188, which is +1,898, or +10.44%.
+
+Software stands out on both measures. It has the largest overage in dollars (+1,696) and in percentage (+15.44%), and it is the only category above the overall 10.44% overage. Travel (+159, +2.70%) and Advertising (+43, +3.25%) were both only slightly over. Advertising has the smallest dollar overage, while Travel has the smallest percentage overage.
+
+The table doesn't say why Software ran over, so I'd suggest checking the Software spending details first."
+2026-02-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'none', 'under_pct': 'none'}","Hi,
+
+Here's how the department's spending compares to budget. Every category came in over budget, so none is under budget, and I can't name a biggest underspend by amount or by percentage. The total is also over, at +1,898 (+10.44%).
+
+Software is the biggest overspend on both measures. It's over by 1,696, the largest amount of any category, and by 15.44%, the highest percentage. Software is also the main reason the total is over, since its overage makes up most of the 1,898 total variance.
+
+Travel and Advertising are much closer to plan. Travel is over by 159 (+2.70%), and Advertising by 43 (+3.25%). Advertising has the smallest dollar overage, while Travel has the smallest percentage overage.
+
+The table doesn't say why Software ran over, so I won't guess. You may want to look at its underlying spending details to find out."
+2026-02-01,Sales,1,PASS,[],False,PASS,[],"{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Hi,
+
+Here's a quick read on this period's budget vs. actual spending.
+
+**Advertising** is the biggest underspend by both measures. It came in $1,395 under budget (budget 14,138, actual 12,743), which is -9.87%. That's the largest dollar gap and the largest percentage gap on the under-budget side.
+
+**Travel** is the biggest overspend by both measures, and it's the only category that went over budget. It ran $1,056 over (budget 9,108, actual 10,164), or +11.59%. That's the largest overage in dollars and in percentage terms.
+
+The other two categories are close to plan. Salaries were $354 under (-0.40%) and Software was $72 under (-1.05%). Neither stands out.
+
+Overall, the department finished $765 under budget (-0.64%), with actual spending of 118,960 against a budget of 119,725. So the total looks fine, but that's because Advertising's underspend outweighed Travel's overspend. Travel and Advertising are the two lines to look at more closely.
+
+The table doesn't say why these gaps happened, so I haven't guessed at causes. If you'd like to dig in, the next step would be checking the Travel and Advertising details with the budget owners."
+2026-02-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Advertising and Travel are the two categories to look at, and they come out on top in both dollar and percentage terms. Advertising came in furthest under budget, at 1,395 below plan (-9.87%). It's the biggest underspend whether you measure it in dollars or in percent. Travel is the opposite case. It's the only category that went over budget, by 1,056 (+11.59%), so it is also the biggest overspend on both measures.
+
+The other lines are close to plan. Salaries finished 354 under (-0.40%), and Software finished 72 under (-1.05%). Overall, the department spent 118,960 against a 119,725 budget, which is 765 under (-0.64%). That small total hides the Advertising underspend and the Travel overspend, which pull in opposite directions.
+
+The table doesn't say why Advertising came in low or why Travel ran high. Before drawing any conclusions, it would be worth asking the budget owners for those two categories to explain what happened."
+2026-02-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Travel', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Hi, here's a quick read on the budget vs. actual numbers.
+
+Advertising and Travel are the two categories that stand out, and they lead on both dollar and percentage measures. Advertising came in furthest under budget: it's down 1,395 (-9.87%), with 12,743 spent against a 14,138 budget. Travel is the biggest overspend: it's up 1,056 (+11.59%), with 10,164 spent against 9,108 budgeted. Travel is also the only category that went over at all, so there's no separate ""second place"" overspend to compare it with.
+
+Salaries (-354, -0.40%) and Software (-72, -1.05%) are both a little under budget, but the gaps are small. Overall, the department spent 118,960 against a 119,725 budget, which is 765 under (-0.64%). So the Advertising underspend more than covers the Travel overspend at the total level, though the table doesn't tell us why either one moved the way it did. If you want to dig in, Advertising and Travel are the two lines to ask about."
+2026-03-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Hi,
+
+Here's a quick read on the budget vs. actual numbers. Salaries is the biggest overspend, both in dollar terms and in percentage terms: it came in at 40,815 against a budget of 36,933, which is 3,882 over, or +10.51%. Software is the biggest underspend by both measures: it came in at 4,902 against a budget of 5,549, which is 647 under, or -11.66%. So the same two categories top the list whether you look at absolute amounts or percentages.
+
+The other two lines are minor. Travel is slightly over, by 259 (+2.93%). Advertising is essentially on budget, off by only 8 (-0.04%).
+
+Overall, the department finished 3,486 over budget (+4.81%). Salaries accounts for most of that overage, and the Software underspend only offsets a small part of it. The table doesn't show why Salaries ran over or why Software came in under, so if you want to understand the reasons, the next step is to check with the budget owners or look at the underlying details."
+2026-03-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Hi [Name],
+
+Salaries is the category furthest over budget, whether you look at dollars or percentages. It came in at 40,815 against a budget of 36,933, which is 3,882 over (+10.51%). Most of the department's overall overage is in this one line. The total is 3,486 over budget (+4.81%).
+
+Software is the category furthest under budget on both measures. We spent 4,902 against a budget of 5,549, which is 647 under (-11.66%). It is the only category with a meaningful underspend, but it is far too small to offset the Salaries overage.
+
+The other two categories are minor by comparison. Travel is slightly over (+259, +2.93%), and Advertising is almost exactly on budget (-8, -0.04%).
+
+The table only shows what happened, not why, so I haven't speculated on the causes. If you want to dig further, Salaries is the place to start, and it may also be worth asking whether the Software underspend is a real saving or just a timing difference."
+2026-03-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Salaries is the biggest overspend, both in dollars and in percentage terms. It came in at 40,815 against a budget of 36,933, which is 3,882 over, or +10.51%. That one line is also the main reason the department ended up over budget overall (+3,486, or +4.81%).
+
+Software is the biggest underspend by both measures. It landed at 4,902 versus a 5,549 budget, which is 647 under, or -11.66%. It's the only category where we spent clearly less than planned, though the saving is small next to the salary overrun.
+
+The other two categories are close to plan. Travel is slightly over, at +259 (+2.93%). Advertising is almost exactly on budget, at -8 (-0.04%).
+
+The same two categories top both rankings, so there is no split between the ""biggest by amount"" and ""biggest by percentage"" answers. Salaries is the line to look at first. Software is worth a quick check to see whether the underspend reflects a real saving or just timing. The table doesn't say why either variance happened, so you'd need to ask the category owners."
+2026-03-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","Hi,
+
+Here's a quick read on how the department's spending compares with budget.
+
+**Overall:** We came in under budget. The total budget was 60,997 and actual spending was 59,385, which is 1,612 (2.64%) under.
+
+**Biggest gap in amount**
+- **Under budget:** Salaries had the largest dollar gap. Actual was 45,042 against a budget of 46,416, so 1,374 under.
+- **Over budget:** Advertising is the only category that went over. It came in at 5,201 against a budget of 4,836, so 365 over.
+
+**Biggest gap in percentage**
+- **Under budget:** Software had the largest percentage drop, at 6.19% under (9,142 actual vs. 9,745 budgeted). Salaries, with the largest amount, was only 2.96% under, because its budget is much bigger.
+- **Over budget:** Advertising again, at 7.55% over. It's the only overspend, so it tops both lists on the over-budget side.
+
+**Takeaway:** Salaries and Software account for the underspend, and Advertising is the one line that ran over. Its overspend is small in absolute terms, but it's the largest percentage swing in either direction. The table doesn't say why these variances happened, so I haven't offered any explanations. If you want to dig in, the next step would be to check with the category owners."
+2026-03-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","Hi,
+
+Here's a quick look at how the department's actual spending compares with budget. Overall, we came in under budget by 1,612 (-2.64%), based on the total line in the table.
+
+**Salaries** had the biggest dollar underspend, at 1,374 below budget. That's only -2.96% in percentage terms, so it's a large amount but a small share of the Salaries budget.
+
+**Software** had the biggest percentage underspend, at -6.19% (603 below budget). The dollar amount is smaller than Salaries, but it's the largest gap relative to what was planned.
+
+**Advertising** was the only category over budget, by 365. That's also the largest percentage overrun at +7.55%. It is both the biggest overspend in dollars and in percentage terms, simply because it's the only one that went over.
+
+In short, Salaries leads on dollars saved, Software leads on percentage saved, and Advertising is the one to watch. The table doesn't say why these gaps happened, so I haven't speculated. If you'd like to understand the drivers, especially for Advertising, we'd need more detail from the teams involved."
+2026-03-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Software'}","Overall, the department came in under budget: the table shows the total at 59,385 against a budget of 60,997, which is 1,612 (2.64%) under.
+
+The biggest dollar underspend was Salaries, at 1,374 below budget. In percentage terms, though, Salaries was only 2.96% under, which is small. Software had the largest percentage underspend at 6.19% (603 below budget), even though the dollar amount is much smaller.
+
+Advertising is the only category that went over budget, so it's the largest overspend in both dollars and percentage. It ran 365 over, or 7.55%. That's the biggest percentage swing in the table, in either direction, though the dollar amount is modest.
+
+The table doesn't say why any of these gaps happened, so I wouldn't read anything into the causes without checking with the category owners. If you want to follow up, Advertising is the one to ask about, since it's the only overrun. Salaries and Software explain the underspend in different ways: Salaries accounts for most of the dollar savings, and Software is the larger shortfall relative to its own budget."
+2026-03-01,Sales,1,FAIL,[2.0],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Overall, the department spent 74,114 against a budget of 72,671, which is 1,443 (1.99%) over. Here is where the biggest gaps are.
+
+**Over budget:** Salaries has the largest overspend in dollar terms, at +2,493 (+5.74%). It is also the biggest line item, so the percentage looks modest. Travel is the biggest overspend in percentage terms, at +13.43%, even though its dollar gap (+1,293) is only about half that of Salaries.
+
+**Under budget:** Advertising is the biggest underspend on both measures, at -1,792 and -13.49%. Its percentage gap is only slightly larger than Travel's overrun (13.43%), but it points the other way. Software is also under budget, but by a smaller margin (-551, -8.66%).
+
+Salaries and Travel together make up the overspend. Advertising's underspend offsets part of it, and Software's offsets a bit more, which is why the total ends up only about 2% over. I'd look at Salaries first because of the dollar amount, and Travel next because it has gone over by the largest percentage. The table doesn't show why any of these gaps happened, so that would need to be confirmed with the budget owners."
+2026-03-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Hi,
+
+Here's a quick read on how each department spending category compared to budget.
+
+**Biggest differences in amount**
+- **Over budget:** Salaries is the biggest overspend, at 2,493 above budget (45,890 actual vs. 43,397 budgeted).
+- **Under budget:** Advertising has the biggest underspend, at 1,792 below budget (11,492 actual vs. 13,284 budgeted).
+
+**Biggest differences in percentage**
+- **Over budget:** Travel is furthest over in relative terms, at +13.43% (10,919 actual vs. 9,626 budgeted). Its dollar gap of 1,293 is smaller than Salaries', but it's a bigger share of its own budget.
+- **Under budget:** Advertising again, at -13.49%. It's the largest underspend by both amount and percentage.
+
+**Other lines**
+- Software came in under budget by 551 (-8.66%).
+- Salaries is over by 5.74%, a smaller percentage than Travel, but it has the largest dollar impact.
+
+**Overall**
+The department's total spending is 74,114 against a budget of 72,671, so it's over by 1,443 (+1.99%).
+
+The table doesn't say why these gaps happened, so I haven't speculated. If you want to dig in, Salaries (largest dollar overage), Travel (largest percentage overage), and Advertising (largest underspend on both measures) are the best places to start."
+2026-03-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Travel', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Here's how the department's spending looks against budget. Overall, we're a bit over: actual spending is 74,114 against a budget of 72,671, which the table shows as +1,443 (+1.99%).
+
+**Biggest dollar differences:** Salaries is the largest overspend, at +2,493 over budget. Advertising is the largest underspend, at -1,792 under budget.
+
+**Biggest percentage differences:** Travel has the largest overspend in percentage terms, at +13.43%. Advertising again has the largest underspend, at -13.49%. The two percentages are almost the same size, just pointing in opposite directions.
+
+Advertising is the biggest underspend on both measures. Salaries is the biggest overspend in dollars, but its percentage (+5.74%) is much smaller than Travel's, so Travel is the one that has moved furthest from its plan proportionally. Software is also under budget, but only slightly (-551, -8.66%).
+
+The table doesn't say why these gaps happened, so I haven't guessed at causes. If you want to dig in, Salaries and Travel are the places to start, since they're the two overspends."
+2026-04-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Here's a quick read on how spending compared with budget, using the figures in the table.
+
+**Biggest gaps in dollar terms**
+
+- **Over budget:** Salaries is the biggest overspend at +2,435 (+6.12%). It's also the largest line in the budget, so a gap of that size is easy to see.
+- **Under budget:** Advertising came in 3,049 below plan (-13.15%). That's the largest underspend in absolute terms.
+
+**Biggest gaps in percentage terms**
+
+- **Over budget:** Software ran the furthest over, at +12.80% (+426). The dollar amount is small, but proportionally it's the biggest overshoot.
+- **Under budget:** Advertising again, at -13.15%. It's the largest underspend in both dollars and percentage, so it's the clearest outlier on the low side.
+
+**The overall picture**
+
+Total spending was 70,980 against a budget of 71,577, which is 597 under (-0.83%). That looks nearly on target, but it's partly because the Advertising underspend offsets the overruns in Salaries and Software. Travel was also under, by 409 (-7.74%), which adds a bit more to the cushion.
+
+**Worth keeping in mind**
+
+The table doesn't say why any of these gaps happened, so I'd hold off on drawing conclusions about causes. If you want to dig in, Advertising and Salaries are the two lines that move the total the most, and Software is the one to watch if you care more about percentage drift than dollar amounts."
+2026-04-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Here's a quick read on how the department's spending compared with budget.
+
+**Biggest gaps in dollar terms**
+- **Over budget:** Salaries ran the furthest over, at +2,435 (42,225 actual against a 39,790 budget).
+- **Under budget:** Advertising came in the furthest under, at -3,049 (20,129 actual against 23,178 budgeted).
+
+**Biggest gaps in percentage terms**
+- **Over budget:** Software had the largest overspend by percentage, at +12.80%. The dollar amount is small (+426), but it's a big jump relative to its budget of 3,328.
+- **Under budget:** Advertising also had the largest underspend by percentage, at -13.15%. So it leads both the dollar and percentage measures on the under-budget side.
+
+**The overall picture**
+Taken together, the department finished at 70,980 against a 71,577 budget. That's 597 under, or -0.83%. This is a small net figure, but it hides some larger swings underneath. The Advertising underspend largely offset the overspending in Salaries and Software, which is why the total looks so close to plan.
+
+Travel was also under budget (-409, or -7.74%), though it's not the biggest mover on either measure.
+
+The data doesn't say why these differences happened, so I haven't speculated. If you want to dig in, Advertising and Salaries are the most worthwhile places to start, since they have the biggest dollar impact. Software is also worth a quick look, because its percentage overrun is the highest among the over-budget items."
+2026-04-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","{'over_amount': 'Salaries', 'over_pct': 'Software', 'under_amount': 'Advertising', 'under_pct': 'Advertising'}","Here's a quick read on how the department's spending compared with budget.
+
+**Biggest dollar gaps**
+- **Under budget:** Advertising came in the furthest below plan, at 3,049 less than budgeted (-13.15%).
+- **Over budget:** Salaries ran the furthest over, at 2,435 above budget (+6.12%).
+
+**Biggest percentage gaps**
+- **Under budget:** Advertising again leads, at -13.15%. It is the largest underspend whether you look at dollars or percentages.
+- **Over budget:** Software had the largest overrun in percentage terms, at +12.80%. In dollars, that is only 426 over, so it is a small item overall, but it is proportionally the one that strayed furthest from plan.
+
+**The bigger picture**
+Total spending was 70,980 against a budget of 71,577, which is 597 under (-0.83%). The department looks nearly on budget overall, but that is partly because the Advertising underspend offset the overruns in Salaries and Software. Travel was also slightly under (-409, -7.74%), which helped a little too.
+
+I can't tell from the table why these gaps happened, so I'd suggest checking with the relevant budget owners, especially for Advertising, Salaries, and Software, before drawing conclusions or adjusting next period's budget."
+2026-04-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Here's how the numbers shake out this period.
+
+**Salaries** is the biggest story on the under-budget side. It came in 6,464 below budget (budget 46,366, actual 39,902), which is -13.94%. That's the largest gap by amount and also the largest by percentage. Since the total underspend is 6,960, Salaries makes up most of it.
+
+**Advertising** is the only category that went over budget. It ran 181 above plan (budget 4,862, actual 5,043), or +3.72%. It's the largest overspend by both amount and percentage, though it's a small overage next to the Salaries gap.
+
+The other two categories are under budget but only modestly. Software is down 584 (-8.03%), and Travel is nearly on target, down just 93 (-1.76%).
+
+Overall, the department spent 56,831 against a budget of 63,791, which is 6,960 under, or -10.91%.
+
+The table doesn't tell us why Salaries is so far below plan or why Advertising edged over, so I haven't guessed. Salaries is the line to look into first, since it drives nearly all of the total variance."
+2026-04-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries is the biggest underspend by both measures. It came in 6,464 under budget (actual 39,902 against a budget of 46,366), which is -13.94%. That is the largest drop in absolute amount and in percentage, and it accounts for most of the department's total underspend of 6,960 (-10.91%).
+
+Advertising is the only category that went over budget, so it is the biggest overspend on both counts. It was 181 over (5,043 actual against 4,862 budgeted), or +3.72%. The amount is small next to the Salaries gap, but it is the one line that moved in the opposite direction.
+
+The other two categories were both under budget. Software was 584 under (-8.03%), the second-largest underspend. Travel was nearly on target, only 93 under (-1.76%).
+
+The table doesn't say why these differences happened, so it's worth asking the category owners, especially for Salaries, before drawing any conclusions."
+2026-04-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Overall, the department spent less than planned: the total came in at 56,831 against a budget of 63,791, which is 6,960 (10.91%) under.
+
+Salaries is the biggest under-budget category by both measures. It was 6,464 under budget, or 13.94%, and that single line is most of the total underspend. Software was also under, by 584 (8.03%), and Travel was only slightly under, by 93 (1.76%).
+
+Advertising is the only category that went over budget, so it is the largest overspend by both amount and percentage. It was 181 over, or 3.72%. That is small in absolute terms compared with the Salaries gap, but it is the one line that moved in the opposite direction from the rest.
+
+The table doesn't say why Salaries came in so far under or why Advertising went over, so I'd check with the budget owners before drawing any conclusions. Salaries is the line to look at first, given how much of the total variance it accounts for."
+2026-04-01,Sales,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","Salaries is the biggest overspend, both in amount and in percentage. It came in 2,055 over budget (+5.10%), and that is more than twice the total net overspend of 863 for the department (+1.30%). Without that line, the overall picture would look quite different.
+
+On the under-budget side, the two measures point to different categories. Advertising has the largest underspend in amount, at 887 below budget (-6.09%). Software has the largest underspend in percentage terms, at -9.62%, although that is only 481 in actual amount. Software is therefore the bigger miss relative to its own budget, while Advertising freed up more cash.
+
+Travel was also slightly over, by 176 (+2.63%), but this is small compared with the others.
+
+Overall, the underspends in Software and Advertising offset part of the Salaries overrun, but not all of it, so the department ended up 863 over budget. The table doesn't show why these gaps happened, so it would be worth checking with the relevant teams, especially on Salaries, before drawing any conclusions."
+2026-04-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","Overall, the department came in slightly over budget, at +863 or +1.30% for the total. Here's where the biggest differences are.
+
+**Salaries** is the biggest overspend on both measures. It's up 2,055 (+5.10%), which is the largest dollar overage and the largest percentage overage. Travel is also over, but only by 176 (+2.63%), so it's a much smaller issue.
+
+On the under-budget side, the answer depends on how you measure. **Advertising** has the largest dollar underspend, down 887 (-6.09%). **Software** has the largest percentage underspend, at -9.62%, though in dollars it's only 481 below budget. So Advertising saved more money, but Software missed its budget by a bigger share.
+
+The table doesn't say why these gaps happened, so I'd check with the relevant teams before drawing conclusions. Salaries is the first place to look, since it's the biggest driver of the overall overage."
+2026-04-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Advertising', 'under_pct': 'Software'}","Here's the quick read on where we landed against budget. Salaries is the biggest overspend on both measures. It came in 2,055 over budget, which is +5.10%, so it is the largest overrun in absolute amount and in percentage terms. Travel was also over, but only slightly (+176, or +2.63%).
+
+On the under-budget side, the two measures point to different categories. Advertising has the largest underspend in absolute terms, at 887 under budget (-6.09%). Software has the largest underspend in percentage terms, at -9.62%, though that is only 481 in actual amount. Advertising is the bigger underspend in money, while Software is the bigger miss relative to its own budget.
+
+Overall, the department finished 863 over budget (+1.30%). The underspends in Software and Advertising offset part of the overruns, but not enough to cover Salaries and Travel.
+
+The table doesn't say why these variances happened, so I wouldn't draw conclusions yet. If you want to dig in, Salaries is the obvious place to start, and it would help to ask the budget owners for Advertising and Software to explain their underspends."
+2026-05-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi [Finance Manager],
+
+Here's a quick look at how the department's spending compared with budget. Salaries is the only category that came in under budget, and it is both the biggest dollar gap and the biggest percentage gap on the under side. It was 2,509 below plan, or -6.86%. That single line is the main reason the department's total ended up 1,136 under budget (-1.61%).
+
+On the over-budget side, the two measures point to different categories. Advertising has the largest overage in dollars, at +1,008 over budget (+4.26%). Software has the largest overage in percentage terms at +4.29%, although in dollars it is only +217. The two percentages are very close, so Advertising and Software are about equally over plan in relative terms. Advertising simply has far more money behind it. Travel was also slightly over, at +148 (+2.79%), but it is the smallest overrun on both measures.
+
+The table only shows what happened, not why, so I haven't offered any explanations for the gaps. If you want to dig further, Salaries and Advertising are the two lines I'd ask the budget owners about first."
+2026-05-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries is the one that stands out. It came in 2,509 under budget (-6.86%), which is both the biggest under-budget gap in dollar terms and the biggest in percentage terms. It is also the only category that landed below budget, and it is the reason the department's total ended up 1,136 under (-1.61%).
+
+On the over-budget side, the answer depends on how you look at it. In dollar terms, Advertising overspent the most, by 1,008 (+4.26%). In percentage terms, Software went over the most at +4.29%, although its dollar overrun is only 217. Advertising's percentage is almost the same as Software's, so the two are very close on that measure. Travel was over by 148 (+2.79%), the smallest overrun on both measures.
+
+In short, Advertising is the one to watch for dollars, Software is the one to watch for percentage, and Salaries accounts for the underspend. The table doesn't say why any of these gaps happened, so I'd check with the relevant teams before drawing conclusions."
+2026-05-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries is the only category that came in under budget, and it is the biggest gap on both measures: 2,509 under (-6.86%). Because it is the only one below budget, it is also the largest underspend by dollar amount and by percentage.
+
+On the overspend side, the two measures point to different categories. Advertising has the biggest dollar overrun at +1,008, which is well ahead of the other categories. Software has the biggest percentage overrun at +4.29%, though only barely: Advertising is right behind at +4.26%, so the two are essentially tied in percentage terms. Software's dollar overrun is much smaller, at +217. Travel is over by +148 (+2.79%), the smallest overrun by both measures.
+
+Overall, the total comes in at 69,470 against a budget of 70,606, which is 1,136 under (-1.61%). The Salaries underspend is larger than the combined overspends in the other three categories, which is why the total ends up below budget. The table doesn't say why these gaps occurred, so I haven't offered any explanation. If you want to dig into the causes, Salaries and Advertising are the first two lines to check."
+2026-05-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Here's a quick look at how actual spending compared with budget, based on the variance figures in the table.
+
+**Under budget:** Salaries had the biggest drop in dollar terms, coming in 3,453 below budget (-7.76%). Advertising had the biggest drop in percentage terms, at -11.38%, which is 515 under budget. So the two categories that came in lowest aren't the same one, depending on whether you look at amounts or percentages.
+
+**Over budget:** Software stands out on both measures. It ran 733 over budget, which is +9.94%, so it has both the largest overspend in amount and in percentage. Travel was also over, but only slightly, at 83 (+1.82%).
+
+**Overall:** The department as a whole finished 3,152 under budget (-5.17%). Salaries account for most of that gap, and the Software and Travel overruns only offset a small part of it.
+
+The table doesn't say why any of these gaps happened, so I wouldn't want to guess at causes. If it would help, the next step could be to check the underlying details for Salaries and Software, since those two had the largest dollar differences."
+2026-05-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Hi, here's a quick read on how the department's spending compared with budget.
+
+**Overall:** Total spending came in at 57,795 against a budget of 60,947. That's 3,152 (5.17%) under budget.
+
+**Biggest underspend by amount:** Salaries. Actual spending was 3,453 below budget (-7.76%). It's the largest dollar gap in the table by a wide margin, and it's the main reason the department finished under budget overall.
+
+**Biggest underspend by percentage:** Advertising. It came in 515 under budget, which is -11.38%. The dollar amount is much smaller than Salaries, but proportionally Advertising missed its budget by the most.
+
+**Biggest overspend by amount:** Software. It ran 733 over budget, so it's the largest overspend in dollar terms.
+
+**Biggest overspend by percentage:** Software again, at +9.94%. So it leads on both measures for going over.
+
+**Other notes:** Travel was also slightly over, by 83 (+1.82%). That's a small gap and close to on budget.
+
+**Bottom line:** Software is the only category with a meaningful overspend, and Salaries and Advertising are the ones pulling the total below budget. The table doesn't say why these differences happened, so if you want to understand the reasons, especially for Software and the Salaries gap, it would be worth checking with the relevant teams."
+2026-05-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Hi, here's a quick read on how spending compared with budget this period.
+
+**Largest dollar differences**
+- **Under budget:** Salaries came in the furthest below plan, at 3,453 under (-7.76%). That's the biggest gap in either direction.
+- **Over budget:** Software ran the furthest above plan, at 733 over (+9.94%).
+
+**Largest percentage differences**
+- **Under budget:** Advertising had the biggest percentage drop, at -11.38% (515 under budget). Its dollar gap is much smaller than Salaries, but relative to its budget it's the sharpest underspend.
+- **Over budget:** Software also leads here, at +9.94%. So it is the top overspend by both dollar amount and percentage.
+
+**Bigger picture**
+Overall, the department spent 57,795 against a budget of 60,947. That's 3,152 under, or -5.17%. Salaries account for most of that underspend, which is why the total looks healthy even though Software is over. Travel was nearly on target, just 83 over (+1.82%).
+
+The table doesn't say why these gaps happened, so I won't guess at causes. If it would help, the next step could be to check with the relevant owners, especially for Software and Salaries, to understand what's behind the numbers."
+2026-05-01,Sales,1,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Overall, the department came in under budget: total actual spending was 71,899 against a budget of 74,126, which is 2,227 (3.00%) below plan.
+
+Looking at the individual categories, Salaries shows the biggest under-spend in absolute terms, at 1,982 below budget (-4.62%). By percentage, though, Advertising is the standout under-spender. It came in 1,530 under budget, a 10.28% shortfall, which is a much larger share of its budget than Salaries.
+
+On the over-budget side, Software tops both lists. It ran 1,157 over budget, the largest overspend in dollar terms, and that works out to +15.18%, the biggest percentage overrun of any category. Travel was also slightly over, by 128 (+1.47%), but that is small next to Software.
+
+Software is the one to look at first, since it is the only category with a notable overrun and it is overshooting by a wide margin. Salaries and Advertising are the two places where spending came in well under plan. The data doesn't tell us why any of these gaps happened, so it would be worth checking with the relevant owners before drawing conclusions."
+2026-05-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Hi,
+
+Overall, the department came in under budget. The total variance is -2,227 (-3.00%), with budget at 74,126 and actual spending at 71,899.
+
+**Biggest differences in amount**
+- **Under budget:** Salaries had the largest underspend at -1,982 (budget 42,940, actual 40,958).
+- **Over budget:** Software had the largest overspend at +1,157 (budget 7,623, actual 8,780).
+
+**Biggest differences in percentage**
+- **Under budget:** Advertising was furthest below plan at -10.28%, or -1,530 in amount (budget 14,879, actual 13,349).
+- **Over budget:** Software was furthest above plan at +15.18%.
+
+Software is the only category that is the largest overspend by both amount and percentage, so it's the one to watch. Salaries is the biggest underspend by amount, while Advertising is the biggest by percentage. Even though Salaries has the larger dollar gap, its variance is only -4.62%. Travel is basically on target, just +128 (+1.47%) over.
+
+The table doesn't say why these variances happened, so I haven't speculated. If you want to know what's behind the Software overspend or the Advertising and Salaries underspends, we'd need more detail from the teams involved."
+2026-05-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","{'over_amount': 'Software', 'over_pct': 'Software', 'under_amount': 'Salaries', 'under_pct': 'Advertising'}","Hi,
+
+Here's a quick read on the department's budget versus actual spending. Overall, we came in under budget: the total was 71,899 against a budget of 74,126, which the table shows as 2,227 under (-3.00%).
+
+**Under budget:** Salaries had the biggest gap in absolute terms, at 1,982 under (-4.62%). Advertising had the biggest gap in percentage terms, at -10.28%, or 1,530 under. So the two measures point to different categories. Salaries is the larger amount, but Advertising is further from its plan relative to its size.
+
+**Over budget:** Software is the clear outlier here. It was 1,157 over budget, the largest overspend in dollar terms, and at +15.18% it is also the largest overspend in percentage terms. It's the only category where both measures agree, and it's the one I'd flag. Travel was also over, but only by 128 (+1.47%), which is minor.
+
+The table doesn't say why these differences happened, so I haven't guessed at causes. If you want to dig in, Software is the place to start. It would also help to ask the owners of Salaries and Advertising whether their underspending reflects planned savings or timing differences."
+2026-06-01,Marketing,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi,
+
+Here's a quick read on this period's budget versus actual spending.
+
+**Under budget:** Salaries is the only category that came in under budget, so it is the biggest underspend in both dollars and percentage. It was 2,558 below plan (-6.70%), with 35,609 spent against a 38,167 budget.
+
+**Over budget:** The answer depends on how you measure it.
+- **By dollar amount**, Advertising is the biggest overspend, at 1,534 over (+7.49%). Actual spending was 22,003 against a 20,469 budget.
+- **By percentage**, Travel is the biggest overspend, at +13.41%. It was only 706 over in dollars (5,972 actual vs. 5,266 budgeted), but that is a larger share of its budget than any other category.
+
+Software was also over budget, by 152 (+7.43%). That is the smallest overspend in dollars, and its percentage is close to Advertising's.
+
+The Total row shows spending at 65,783 against a 65,949 budget, a variance of -166 (-0.25%). So the department finished essentially on budget overall, even though the individual categories moved in different directions.
+
+The table doesn't say why any of these variances happened, so I haven't suggested any causes. If you want to dig into the Salaries underspend or the Advertising and Travel overspends, we would need more detail from the department."
+2026-06-01,Marketing,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi,
+
+Here's a quick read on the budget vs. actual table.
+
+**Under budget:** Salaries is the only category that came in below plan. That makes it the biggest underspend both in dollars (-2,558) and in percentage terms (-6.70%). Budget was 38,167 and actual was 35,609.
+
+**Over budget:** The two measures point to different categories.
+
+- **Advertising** has the largest overspend in dollars, at +1,534 (budget 20,469, actual 22,003). That's +7.49%.
+- **Travel** has the largest overspend in percentage terms, at +13.41%. In dollars it's only +706 (budget 5,266, actual 5,972), but relative to its budget it's the biggest overrun.
+
+Software was also over, by +152 (+7.43%). That's the smallest overrun in dollars, and its percentage is close to Advertising's.
+
+Overall, the total came in slightly under budget, at 65,783 against 65,949 (-166, or -0.25%). The Salaries underspend offset the overruns in Travel, Advertising, and Software, so the total looks almost on target. Underneath, though, the individual categories are moving in different directions.
+
+The table doesn't say why any of these variances happened, so I haven't offered any explanations. If it would help, we could ask the owners of Salaries, Advertising, and Travel to explain their numbers."
+2026-06-01,Marketing,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Travel', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Here's how the spending shaped up against budget, going by the figures in the table.
+
+**Salaries** is the only category that came in under budget. It's also the biggest underspend by both measures: 2,558 below plan (38,167 budgeted vs. 35,609 actual), or -6.70%.
+
+**Advertising** is the biggest overspend in dollar terms, at 1,534 over (20,469 budgeted vs. 22,003 actual). That's +7.49%, so it's a large amount in absolute terms but a moderate share of its own budget.
+
+**Travel** is the biggest overspend in percentage terms, at +13.41%. The dollar amount is smaller, 706 over (5,266 budgeted vs. 5,972 actual). It's the category that strayed furthest from its plan relative to its size.
+
+**Software** was also over, by 152 (+7.43%). It isn't the largest on either measure, but it's close to Advertising in percentage terms.
+
+Overall, the total came in at 65,783 against a 65,949 budget, which is 166 under (-0.25%). That's very close to plan, but it's partly because the Salaries underspend offset the overspends in the other three categories. The table doesn't say why any of these variances happened, so I haven't offered reasons. If you want to dig into Advertising (largest dollar overage) or Travel (largest percentage overage), you'd need more detail from those teams."
+2026-06-01,Operations,1,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Salaries and Software stand out in this table, and they come out on top by both dollar amount and percentage.
+
+Salaries is the biggest overspend. It came in 4,420 over budget (+9.78%), which is the largest gap in absolute terms and also the largest in percentage terms. Software is the only category that came in under budget, at 396 below (-5.31%). That is the biggest underspend by amount and by percentage, though it is small next to the Salaries overrun.
+
+Travel was also over, by 440 (+6.16%), and Advertising landed exactly on budget with no variance. Overall, the department spent 4,464 more than planned (+7.26%). The table doesn't say why any of these gaps happened, so I'd talk to the category owners before drawing conclusions about the causes."
+2026-06-01,Operations,2,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Salaries is the clear outlier on the over-budget side. It came in at 49,619 against a budget of 45,199, which is 4,420 over, or +9.78%. That is the biggest overrun both in dollars and in percentage terms, and it accounts for most of the +4,464 total overage shown in the table.
+
+On the under-budget side, Software is the only category that came in below plan. It spent 7,060 against a budget of 7,456, so it was 396 under, or -5.31%. That is the largest underspend by both measures, though it is small next to the Salaries overrun.
+
+Travel was also over budget, at +440 (+6.16%). It is a much smaller amount than Salaries, but the percentage is not trivial. Advertising matched its budget exactly at 1,647, with no variance.
+
+Overall, the department spent 65,914 against a 61,450 budget, which is +7.26% over. The small Software saving does very little to offset the Salaries overage. The table doesn't say why any of these variances happened, so if you want to know what drove the Salaries number in particular, that will need a closer look at the underlying detail."
+2026-06-01,Operations,3,PASS,[],False,PASS,[],"{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","{'over_amount': 'Salaries', 'over_pct': 'Salaries', 'under_amount': 'Software', 'under_pct': 'Software'}","Salaries is the category that went over budget the most, by both measures. It's up 4,420 against a budget of 45,199, which is +9.78%. Since the total overage is 4,464, Salaries makes up most of it. Travel also ran over (+440, or +6.16%), but by much less.
+
+Software is the only category that came in under budget, and it also has the biggest underspend by both measures: 396 below budget, or -5.31%. That's a small cushion compared with the Salaries overrun, so it doesn't offset much of it.
+
+Advertising landed exactly on budget at 1,647, with no variance. Overall, the department spent 65,914 against a 61,450 budget, which is 4,464 (+7.26%) over.
+
+The table doesn't say why these gaps happened, so I haven't speculated. If you want to understand the Salaries overrun in particular, you'd need more detailed data behind that line."
+2026-06-01,Sales,1,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Hi,
+
+Here's a quick read on the budget vs. actual table.
+
+Salaries and Advertising stand out, and they come out on top whether you look at dollar amounts or percentages. Salaries came in the furthest under budget: 4,138 below plan (budget 42,570, actual 38,432), a 9.72% shortfall. That is the biggest underspend by both amount and percentage. Advertising is the opposite: it ran 2,759 over (budget 15,440, actual 18,199), or 17.87% above plan. It's the biggest overspend by both measures, and the only category that went over budget at all.
+
+Travel and Software were both slightly under, by 94 (1.07%) and 98 (2.30%) respectively. These are small enough that they don't change the overall picture. The department as a whole finished 1,571 under budget (2.21%), but that is mainly because the Salaries underspend outweighed the Advertising overspend.
+
+The table doesn't say why Salaries came in low or Advertising ran high, so I wouldn't read anything into the causes yet. It would be worth asking the relevant team leads about both lines, especially Advertising, since that's the one that broke its budget."
+2026-06-01,Sales,2,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries and Advertising stand out in this report, and they are the biggest variances on both an absolute and a percentage basis.
+
+Salaries came in furthest under budget. Actual spending was 38,432 against a budget of 42,570, which is 4,138 under, or -9.72%. Advertising is the opposite case. It was the only category that went over budget, with 18,199 spent against 15,440 planned. That is 2,759 over, or +17.87%, and it is the largest overspend by both amount and percentage.
+
+The other two categories barely moved. Travel was 94 under (-1.07%) and Software was 98 under (-2.30%), so neither needs much attention.
+
+Overall, the department spent 69,486 against a budget of 71,057, which is 1,571 under (-2.21%). The Salaries underspend is bigger than the Advertising overspend, so the total still lands below budget. That total hides the fact that Advertising ran well over its own budget.
+
+The table doesn't say why Salaries came in low or Advertising ran high, so I'd suggest asking the category owners before drawing conclusions. Advertising is probably the more urgent one to follow up on, since it is the only category over budget."
+2026-06-01,Sales,3,PASS,[],False,PASS,[],"{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","{'over_amount': 'Advertising', 'over_pct': 'Advertising', 'under_amount': 'Salaries', 'under_pct': 'Salaries'}","Salaries and Advertising are the two categories that stand out, and they come out on top whether you look at absolute amounts or percentages.
+
+Salaries is the biggest underspend. It came in 4,138 under budget (-9.72%), the largest gap in both absolute and percentage terms among the under-budget categories. Advertising is the only category that went over budget, by 2,759 (+17.87%), so it's also the biggest overspend on both measures.
+
+Travel (-94, -1.07%) and Software (-98, -2.30%) are both slightly under budget. Those gaps are small enough that they barely affect the overall picture.
+
+Overall, the department spent 1,571 less than planned (-2.21%). That small net figure hides the bigger swings underneath: Salaries came in well under while Advertising ran well over, and the two partly cancel each other out. If you only look at the total, the department seems to be on track, but the Salaries and Advertising lines are worth a closer look.
+
+The table doesn't say why these differences happened, so I haven't guessed. It would be worth asking the Salaries and Advertising owners to explain their variances."
